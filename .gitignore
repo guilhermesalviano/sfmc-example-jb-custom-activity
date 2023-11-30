@@ -1,6 +1,5 @@
 # WEBPACK
 dist
-<<<<<<< HEAD
 modules/discount-code/dist
 modules/discount-redemption-split/dist
 
@@ -35,10 +34,12 @@ dist/cloudeditor-cdn.*
 # MAC
 .DS_Store
 *.orig
-=======
+
 .idea/misc.xml
 .idea/modules.xml
 .idea/sfmc-example-custom-activity.iml
 .idea/vcs.xml
 .idea/workspace.xml
->>>>>>> master
+
+
+package-lock.json
